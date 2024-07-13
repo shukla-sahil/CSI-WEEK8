@@ -12,7 +12,6 @@ This project is a React-based e-commerce web application that integrates Razorpa
 ## Technologies Used
 
 - **Frontend:** React, React Router, Bootstrap/Tailwind CSS
-- **Backend (Optional):** Firebase Firestore for storing product data and user information
 - **Payment Processing:** Razorpay API for secure payment transactions
 
 ## Getting Started
