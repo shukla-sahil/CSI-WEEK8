@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/shukla-sahil/CSI-WEEK8.git
 cd your-repository
 
 # Install dependencies
